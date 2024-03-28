@@ -25,7 +25,7 @@ $ pip3 install PyQt5
 - Install the downloaded `.whl` file by running:
 
 ```bash
-$ pip install cassowary*
+$ pip install cassowary*.whl
 ```
 
 > If you get any warning about the folder `/home/$USER/.local/bin` not in your PATH, you can easily add it by adding it to your `$HOME/.profile` or `$HOME/.bash_profile`:
